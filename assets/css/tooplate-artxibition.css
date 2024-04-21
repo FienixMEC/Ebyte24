@@ -598,12 +598,7 @@ header
   position:relative;
 }
 
-.Event-poster {
-  width: 450px;
-  height: 150px;
-  padding-left: 40px;
-  position: relative;
-}
+
 
 .register-btn {
   padding: 10px 20px;
